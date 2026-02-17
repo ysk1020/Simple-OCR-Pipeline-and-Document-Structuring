@@ -1,0 +1,1338 @@
+{
+    "file": "X51005230621.jpg",
+    "engine": "tesseract",
+    "tokens": [
+        {
+            "text": "SIN",
+            "confidence": 42.0,
+            "bbox": [
+                166,
+                328,
+                205,
+                361
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "LIANHAP",
+            "confidence": 88.0,
+            "bbox": [
+                207,
+                332,
+                407,
+                353
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "SDN",
+            "confidence": 91.0,
+            "bbox": [
+                303,
+                328,
+                356,
+                361
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "GHD",
+            "confidence": 85.0,
+            "bbox": [
+                358,
+                328,
+                408,
+                361
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "LOT",
+            "confidence": 95.0,
+            "bbox": [
+                182,
+                358,
+                217,
+                389
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "13,",
+            "confidence": 96.0,
+            "bbox": [
+                230,
+                358,
+                256,
+                389
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "JALAN",
+            "confidence": 95.0,
+            "bbox": [
+                264,
+                362,
+                328,
+                379
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "SIN",
+            "confidence": 89.0,
+            "bbox": [
+                172,
+                407,
+                207,
+                425
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "LIANHAP",
+            "confidence": 57.0,
+            "bbox": [
+                213,
+                406,
+                307,
+                424
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "SDN",
+            "confidence": 95.0,
+            "bbox": [
+                313,
+                406,
+                357,
+                423
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "BHD",
+            "confidence": 82.0,
+            "bbox": [
+                363,
+                405,
+                409,
+                423
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "LOT",
+            "confidence": 96.0,
+            "bbox": [
+                184,
+                434,
+                224,
+                451
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "13,",
+            "confidence": 96.0,
+            "bbox": [
+                232,
+                434,
+                258,
+                454
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "JALAN",
+            "confidence": 53.0,
+            "bbox": [
+                266,
+                434,
+                331,
+                451
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "IPGH,",
+            "confidence": 53.0,
+            "bbox": [
+                337,
+                433,
+                394,
+                453
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "XG",
+            "confidence": 29.0,
+            "bbox": [
+                143,
+                467,
+                173,
+                484
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "BATU",
+            "confidence": 93.0,
+            "bbox": [
+                179,
+                467,
+                235,
+                484
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "20",
+            "confidence": 80.0,
+            "bbox": [
+                242,
+                467,
+                264,
+                484
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": ",",
+            "confidence": 88.0,
+            "bbox": [
+                273,
+                481,
+                276,
+                487
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "ULU",
+            "confidence": 90.0,
+            "bbox": [
+                283,
+                466,
+                324,
+                483
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "YAM",
+            "confidence": 86.0,
+            "bbox": [
+                331,
+                466,
+                376,
+                483
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "LAMA",
+            "confidence": 82.0,
+            "bbox": [
+                383,
+                466,
+                439,
+                483
+            ],
+            "block_num": 3,
+            "line_num": 3
+        },
+        {
+            "text": "44300",
+            "confidence": 93.0,
+            "bbox": [
+                141,
+                497,
+                200,
+                513
+            ],
+            "block_num": 3,
+            "line_num": 4
+        },
+        {
+            "text": "BTG",
+            "confidence": 67.0,
+            "bbox": [
+                207,
+                497,
+                248,
+                513
+            ],
+            "block_num": 3,
+            "line_num": 4
+        },
+        {
+            "text": "KALI,",
+            "confidence": 96.0,
+            "bbox": [
+                255,
+                496,
+                306,
+                516
+            ],
+            "block_num": 3,
+            "line_num": 4
+        },
+        {
+            "text": "SELANGOR,",
+            "confidence": 82.0,
+            "bbox": [
+                314,
+                496,
+                434,
+                513
+            ],
+            "block_num": 3,
+            "line_num": 4
+        },
+        {
+            "text": "TEL:",
+            "confidence": 92.0,
+            "bbox": [
+                45,
+                527,
+                82,
+                542
+            ],
+            "block_num": 3,
+            "line_num": 5
+        },
+        {
+            "text": "03-80752222{HUNTING",
+            "confidence": 36.0,
+            "bbox": [
+                88,
+                527,
+                286,
+                544
+            ],
+            "block_num": 3,
+            "line_num": 5
+        },
+        {
+            "text": "LINE)",
+            "confidence": 94.0,
+            "bbox": [
+                290,
+                527,
+                336,
+                544
+            ],
+            "block_num": 3,
+            "line_num": 5
+        },
+        {
+            "text": "FAX",
+            "confidence": 93.0,
+            "bbox": [
+                341,
+                527,
+                377,
+                542
+            ],
+            "block_num": 3,
+            "line_num": 5
+        },
+        {
+            "text": "02-60752572",
+            "confidence": 32.0,
+            "bbox": [
+                384,
+                526,
+                495,
+                542
+            ],
+            "block_num": 3,
+            "line_num": 5
+        },
+        {
+            "text": "(Company",
+            "confidence": 89.0,
+            "bbox": [
+                131,
+                558,
+                234,
+                582
+            ],
+            "block_num": 3,
+            "line_num": 6
+        },
+        {
+            "text": "Reg",
+            "confidence": 79.0,
+            "bbox": [
+                240,
+                558,
+                279,
+                582
+            ],
+            "block_num": 3,
+            "line_num": 6
+        },
+        {
+            "text": "No:",
+            "confidence": 87.0,
+            "bbox": [
+                285,
+                558,
+                317,
+                576
+            ],
+            "block_num": 3,
+            "line_num": 6
+        },
+        {
+            "text": "264922-D",
+            "confidence": 87.0,
+            "bbox": [
+                336,
+                558,
+                427,
+                576
+            ],
+            "block_num": 3,
+            "line_num": 6
+        },
+        {
+            "text": ")",
+            "confidence": 78.0,
+            "bbox": [
+                440,
+                558,
+                445,
+                581
+            ],
+            "block_num": 3,
+            "line_num": 6
+        },
+        {
+            "text": "(GST",
+            "confidence": 89.0,
+            "bbox": [
+                149,
+                592,
+                199,
+                616
+            ],
+            "block_num": 3,
+            "line_num": 7
+        },
+        {
+            "text": "Reg",
+            "confidence": 94.0,
+            "bbox": [
+                206,
+                592,
+                242,
+                616
+            ],
+            "block_num": 3,
+            "line_num": 7
+        },
+        {
+            "text": "No:",
+            "confidence": 87.0,
+            "bbox": [
+                249,
+                592,
+                281,
+                610
+            ],
+            "block_num": 3,
+            "line_num": 7
+        },
+        {
+            "text": "001610832920)",
+            "confidence": 82.0,
+            "bbox": [
+                288,
+                592,
+                434,
+                615
+            ],
+            "block_num": 3,
+            "line_num": 7
+        },
+        {
+            "text": "TAX",
+            "confidence": 92.0,
+            "bbox": [
+                212,
+                643,
+                253,
+                661
+            ],
+            "block_num": 4,
+            "line_num": 1
+        },
+        {
+            "text": "INVOICE",
+            "confidence": 95.0,
+            "bbox": [
+                261,
+                643,
+                346,
+                661
+            ],
+            "block_num": 4,
+            "line_num": 1
+        },
+        {
+            "text": "CASH",
+            "confidence": 95.0,
+            "bbox": [
+                46,
+                708,
+                107,
+                726
+            ],
+            "block_num": 4,
+            "line_num": 2
+        },
+        {
+            "text": "CUSTOMER",
+            "confidence": 95.0,
+            "bbox": [
+                113,
+                708,
+                232,
+                727
+            ],
+            "block_num": 4,
+            "line_num": 2
+        },
+        {
+            "text": "Invoice",
+            "confidence": 59.0,
+            "bbox": [
+                44,
+                751,
+                110,
+                769
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "No.",
+            "confidence": 93.0,
+            "bbox": [
+                117,
+                751,
+                149,
+                769
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": ":",
+            "confidence": 47.0,
+            "bbox": [
+                157,
+                754,
+                161,
+                769
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "*",
+            "confidence": 55.0,
+            "bbox": [
+                217,
+                748,
+                220,
+                763
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "H0003939",
+            "confidence": 55.0,
+            "bbox": [
+                229,
+                751,
+                327,
+                769
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "Date:",
+            "confidence": 75.0,
+            "bbox": [
+                47,
+                781,
+                103,
+                799
+            ],
+            "block_num": 4,
+            "line_num": 4
+        },
+        {
+            "text": "2",
+            "confidence": 51.0,
+            "bbox": [
+                219,
+                785,
+                222,
+                799
+            ],
+            "block_num": 4,
+            "line_num": 4
+        },
+        {
+            "text": "08/08/2078",
+            "confidence": 49.0,
+            "bbox": [
+                233,
+                781,
+                337,
+                800
+            ],
+            "block_num": 4,
+            "line_num": 4
+        },
+        {
+            "text": "Cashler#:",
+            "confidence": 58.0,
+            "bbox": [
+                44,
+                813,
+                145,
+                831
+            ],
+            "block_num": 4,
+            "line_num": 5
+        },
+        {
+            "text": "Rh",
+            "confidence": 23.0,
+            "bbox": [
+                286,
+                853,
+                331,
+                889
+            ],
+            "block_num": 4,
+            "line_num": 6
+        },
+        {
+            "text": "Code",
+            "confidence": 95.0,
+            "bbox": [
+                439,
+                862,
+                492,
+                879
+            ],
+            "block_num": 4,
+            "line_num": 6
+        },
+        {
+            "text": "PPD",
+            "confidence": 95.0,
+            "bbox": [
+                46,
+                900,
+                88,
+                918
+            ],
+            "block_num": 4,
+            "line_num": 7
+        },
+        {
+            "text": "4M",
+            "confidence": 42.0,
+            "bbox": [
+                95,
+                901,
+                141,
+                918
+            ],
+            "block_num": 4,
+            "line_num": 7
+        },
+        {
+            "text": "DENLIME",
+            "confidence": 91.0,
+            "bbox": [
+                148,
+                900,
+                240,
+                919
+            ],
+            "block_num": 4,
+            "line_num": 7
+        },
+        {
+            "text": "1.887",
+            "confidence": 95.0,
+            "bbox": [
+                290,
+                937,
+                339,
+                955
+            ],
+            "block_num": 4,
+            "line_num": 8
+        },
+        {
+            "text": "SR",
+            "confidence": 71.0,
+            "bbox": [
+                477,
+                937,
+                505,
+                955
+            ],
+            "block_num": 4,
+            "line_num": 8
+        },
+        {
+            "text": "1.000PC",
+            "confidence": 69.0,
+            "bbox": [
+                60,
+                970,
+                144,
+                988
+            ],
+            "block_num": 4,
+            "line_num": 9
+        },
+        {
+            "text": "x",
+            "confidence": 57.0,
+            "bbox": [
+                178,
+                973,
+                188,
+                988
+            ],
+            "block_num": 4,
+            "line_num": 9
+        },
+        {
+            "text": "2.00",
+            "confidence": 96.0,
+            "bbox": [
+                462,
+                971,
+                502,
+                989
+            ],
+            "block_num": 4,
+            "line_num": 9
+        },
+        {
+            "text": "60234",
+            "confidence": 78.0,
+            "bbox": [
+                48,
+                1015,
+                109,
+                1033
+            ],
+            "block_num": 4,
+            "line_num": 10
+        },
+        {
+            "text": "GARDEN",
+            "confidence": 96.0,
+            "bbox": [
+                114,
+                1015,
+                203,
+                1034
+            ],
+            "block_num": 4,
+            "line_num": 10
+        },
+        {
+            "text": "§.000",
+            "confidence": 86.0,
+            "bbox": [
+                286,
+                1049,
+                337,
+                1080
+            ],
+            "block_num": 4,
+            "line_num": 11
+        },
+        {
+            "text": "SR",
+            "confidence": 91.0,
+            "bbox": [
+                474,
+                1054,
+                503,
+                1071
+            ],
+            "block_num": 4,
+            "line_num": 11
+        },
+        {
+            "text": "1.000PC",
+            "confidence": 19.0,
+            "bbox": [
+                61,
+                1086,
+                146,
+                1104
+            ],
+            "block_num": 4,
+            "line_num": 12
+        },
+        {
+            "text": "x",
+            "confidence": 24.0,
+            "bbox": [
+                181,
+                1089,
+                189,
+                1104
+            ],
+            "block_num": 4,
+            "line_num": 12
+        },
+        {
+            "text": "6.30",
+            "confidence": 49.0,
+            "bbox": [
+                464,
+                1087,
+                504,
+                1105
+            ],
+            "block_num": 4,
+            "line_num": 12
+        },
+        {
+            "text": "Subtotal",
+            "confidence": 93.0,
+            "bbox": [
+                230,
+                1142,
+                306,
+                1161
+            ],
+            "block_num": 4,
+            "line_num": 13
+        },
+        {
+            "text": ":",
+            "confidence": 91.0,
+            "bbox": [
+                315,
+                1146,
+                317,
+                1160
+            ],
+            "block_num": 4,
+            "line_num": 13
+        },
+        {
+            "text": "7.30",
+            "confidence": 95.0,
+            "bbox": [
+                463,
+                1144,
+                503,
+                1161
+            ],
+            "block_num": 4,
+            "line_num": 13
+        },
+        {
+            "text": "Tota’",
+            "confidence": 66.0,
+            "bbox": [
+                61,
+                1188,
+                106,
+                1205
+            ],
+            "block_num": 4,
+            "line_num": 14
+        },
+        {
+            "text": "Sales",
+            "confidence": 7.0,
+            "bbox": [
+                110,
+                1188,
+                165,
+                1205
+            ],
+            "block_num": 4,
+            "line_num": 14
+        },
+        {
+            "text": "SST",
+            "confidence": 84.0,
+            "bbox": [
+                266,
+                1180,
+                308,
+                1215
+            ],
+            "block_num": 4,
+            "line_num": 14
+        },
+        {
+            "text": ":",
+            "confidence": 58.0,
+            "bbox": [
+                317,
+                1192,
+                323,
+                1206
+            ],
+            "block_num": 4,
+            "line_num": 14
+        },
+        {
+            "text": "6.69",
+            "confidence": 80.0,
+            "bbox": [
+                465,
+                1190,
+                507,
+                1207
+            ],
+            "block_num": 4,
+            "line_num": 14
+        },
+        {
+            "text": "Total",
+            "confidence": 94.0,
+            "bbox": [
+                49,
+                1220,
+                95,
+                1238
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "Sales",
+            "confidence": 80.0,
+            "bbox": [
+                101,
+                1220,
+                153,
+                1238
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "inciueive",
+            "confidence": 40.0,
+            "bbox": [
+                160,
+                1221,
+                241,
+                1239
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "of",
+            "confidence": 95.0,
+            "bbox": [
+                248,
+                1221,
+                267,
+                1239
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "GST:",
+            "confidence": 95.0,
+            "bbox": [
+                272,
+                1221,
+                320,
+                1239
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "7.30",
+            "confidence": 94.0,
+            "bbox": [
+                469,
+                1223,
+                508,
+                1240
+            ],
+            "block_num": 4,
+            "line_num": 15
+        },
+        {
+            "text": "ounding",
+            "confidence": 24.0,
+            "bbox": [
+                114,
+                1254,
+                193,
+                1278
+            ],
+            "block_num": 5,
+            "line_num": 1
+        },
+        {
+            "text": "Adjustment",
+            "confidence": 92.0,
+            "bbox": [
+                198,
+                1255,
+                304,
+                1278
+            ],
+            "block_num": 5,
+            "line_num": 1
+        },
+        {
+            "text": ":",
+            "confidence": 50.0,
+            "bbox": [
+                313,
+                1258,
+                315,
+                1273
+            ],
+            "block_num": 5,
+            "line_num": 1
+        },
+        {
+            "text": "0.00",
+            "confidence": 87.0,
+            "bbox": [
+                465,
+                1256,
+                505,
+                1274
+            ],
+            "block_num": 5,
+            "line_num": 1
+        },
+        {
+            "text": "Payment",
+            "confidence": 92.0,
+            "bbox": [
+                215,
+                1309,
+                298,
+                1332
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": ":",
+            "confidence": 87.0,
+            "bbox": [
+                306,
+                1313,
+                309,
+                1327
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": "7.30",
+            "confidence": 96.0,
+            "bbox": [
+                465,
+                1311,
+                505,
+                1329
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": "Change",
+            "confidence": 96.0,
+            "bbox": [
+                194,
+                1346,
+                266,
+                1369
+            ],
+            "block_num": 6,
+            "line_num": 2
+        },
+        {
+            "text": "Due",
+            "confidence": 93.0,
+            "bbox": [
+                272,
+                1346,
+                310,
+                1363
+            ],
+            "block_num": 6,
+            "line_num": 2
+        },
+        {
+            "text": ":",
+            "confidence": 47.0,
+            "bbox": [
+                319,
+                1350,
+                322,
+                1363
+            ],
+            "block_num": 6,
+            "line_num": 2
+        },
+        {
+            "text": "0.00",
+            "confidence": 94.0,
+            "bbox": [
+                467,
+                1348,
+                507,
+                1365
+            ],
+            "block_num": 6,
+            "line_num": 2
+        },
+        {
+            "text": "Total",
+            "confidence": 10.0,
+            "bbox": [
+                48,
+                1414,
+                94,
+                1432
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "item(s):",
+            "confidence": 10.0,
+            "bbox": [
+                101,
+                1415,
+                178,
+                1438
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "2",
+            "confidence": 58.0,
+            "bbox": [
+                231,
+                1416,
+                242,
+                1434
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "GST",
+            "confidence": 80.0,
+            "bbox": [
+                30,
+                1456,
+                89,
+                1496
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "Summary",
+            "confidence": 32.0,
+            "bbox": [
+                90,
+                1456,
+                180,
+                1496
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "/",
+            "confidence": 72.0,
+            "bbox": [
+                207,
+                1460,
+                210,
+                1466
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "Tae",
+            "confidence": 50.0,
+            "bbox": [
+                465,
+                1466,
+                497,
+                1484
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "SR",
+            "confidence": 86.0,
+            "bbox": [
+                45,
+                1496,
+                73,
+                1515
+            ],
+            "block_num": 8,
+            "line_num": 2
+        },
+        {
+            "text": "@6",
+            "confidence": 84.0,
+            "bbox": [
+                104,
+                1497,
+                142,
+                1521
+            ],
+            "block_num": 8,
+            "line_num": 2
+        },
+        {
+            "text": "6.89",
+            "confidence": 87.0,
+            "bbox": [
+                313,
+                1485,
+                364,
+                1526
+            ],
+            "block_num": 8,
+            "line_num": 2
+        },
+        {
+            "text": "04",
+            "confidence": 55.0,
+            "bbox": [
+                469,
+                1501,
+                496,
+                1518
+            ],
+            "block_num": 8,
+            "line_num": 2
+        },
+        {
+            "text": "=<",
+            "confidence": 57.0,
+            "bbox": [
+                51,
+                1670,
+                98,
+                1682
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "PLEASE",
+            "confidence": 52.0,
+            "bbox": [
+                105,
+                1670,
+                231,
+                1697
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "COME",
+            "confidence": 93.0,
+            "bbox": [
+                238,
+                1670,
+                333,
+                1697
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "AGAIN",
+            "confidence": 75.0,
+            "bbox": [
+                339,
+                1671,
+                441,
+                1697
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "**",
+            "confidence": 29.0,
+            "bbox": [
+                450,
+                1672,
+                496,
+                1683
+            ],
+            "block_num": 9,
+            "line_num": 1
+        }
+    ]
+}

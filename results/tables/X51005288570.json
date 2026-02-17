@@ -1,0 +1,702 @@
+{
+    "file": "X51005288570.jpg",
+    "engine": "tesseract",
+    "tokens": [
+        {
+            "text": "3180301",
+            "confidence": 96.0,
+            "bbox": [
+                62,
+                33,
+                172,
+                53
+            ],
+            "block_num": 1,
+            "line_num": 1
+        },
+        {
+            "text": "SECURE",
+            "confidence": 95.0,
+            "bbox": [
+                84,
+                136,
+                162,
+                156
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "PARKING",
+            "confidence": 95.0,
+            "bbox": [
+                180,
+                136,
+                273,
+                156
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "CORPORATION",
+            "confidence": 93.0,
+            "bbox": [
+                84,
+                168,
+                231,
+                188
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "S/B",
+            "confidence": 91.0,
+            "bbox": [
+                249,
+                168,
+                287,
+                187
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "Riverwalk",
+            "confidence": 96.0,
+            "bbox": [
+                84,
+                198,
+                203,
+                217
+            ],
+            "block_num": 2,
+            "line_num": 3
+        },
+        {
+            "text": "Village",
+            "confidence": 96.0,
+            "bbox": [
+                221,
+                199,
+                314,
+                221
+            ],
+            "block_num": 2,
+            "line_num": 3
+        },
+        {
+            "text": "Batu",
+            "confidence": 96.0,
+            "bbox": [
+                84,
+                229,
+                136,
+                248
+            ],
+            "block_num": 2,
+            "line_num": 4
+        },
+        {
+            "text": "3,",
+            "confidence": 95.0,
+            "bbox": [
+                153,
+                230,
+                173,
+                249
+            ],
+            "block_num": 2,
+            "line_num": 4
+        },
+        {
+            "text": "Jalan",
+            "confidence": 95.0,
+            "bbox": [
+                194,
+                229,
+                259,
+                248
+            ],
+            "block_num": 2,
+            "line_num": 4
+        },
+        {
+            "text": "Ipoh",
+            "confidence": 89.0,
+            "bbox": [
+                280,
+                229,
+                328,
+                251
+            ],
+            "block_num": 2,
+            "line_num": 4
+        },
+        {
+            "text": "51200",
+            "confidence": 93.0,
+            "bbox": [
+                84,
+                258,
+                149,
+                277
+            ],
+            "block_num": 2,
+            "line_num": 5
+        },
+        {
+            "text": "KL.",
+            "confidence": 89.0,
+            "bbox": [
+                167,
+                260,
+                200,
+                277
+            ],
+            "block_num": 2,
+            "line_num": 5
+        },
+        {
+            "text": "GSTNo.",
+            "confidence": 83.0,
+            "bbox": [
+                84,
+                288,
+                159,
+                308
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "000296652800",
+            "confidence": 71.0,
+            "bbox": [
+                167,
+                288,
+                328,
+                308
+            ],
+            "block_num": 2,
+            "line_num": 1
+        },
+        {
+            "text": "TEL",
+            "confidence": 96.0,
+            "bbox": [
+                83,
+                319,
+                121,
+                339
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "No:",
+            "confidence": 95.0,
+            "bbox": [
+                140,
+                319,
+                173,
+                338
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "1300881698",
+            "confidence": 95.0,
+            "bbox": [
+                197,
+                319,
+                329,
+                339
+            ],
+            "block_num": 2,
+            "line_num": 2
+        },
+        {
+            "text": "RECEIPT",
+            "confidence": 96.0,
+            "bbox": [
+                84,
+                345,
+                177,
+                379
+            ],
+            "block_num": 2,
+            "line_num": 3
+        },
+        {
+            "text": "C13",
+            "confidence": 50.0,
+            "bbox": [
+                250,
+                350,
+                287,
+                369
+            ],
+            "block_num": 2,
+            "line_num": 3
+        },
+        {
+            "text": "Receipt",
+            "confidence": 96.0,
+            "bbox": [
+                85,
+                411,
+                177,
+                434
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "Number:",
+            "confidence": 96.0,
+            "bbox": [
+                195,
+                411,
+                284,
+                431
+            ],
+            "block_num": 3,
+            "line_num": 1
+        },
+        {
+            "text": "KO13",
+            "confidence": 81.0,
+            "bbox": [
+                85,
+                442,
+                136,
+                462
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "1800235097",
+            "confidence": 74.0,
+            "bbox": [
+                145,
+                442,
+                274,
+                462
+            ],
+            "block_num": 3,
+            "line_num": 2
+        },
+        {
+            "text": "ENTRY",
+            "confidence": 96.0,
+            "bbox": [
+                86,
+                503,
+                151,
+                522
+            ],
+            "block_num": 4,
+            "line_num": 1
+        },
+        {
+            "text": "TIME:",
+            "confidence": 41.0,
+            "bbox": [
+                172,
+                504,
+                229,
+                522
+            ],
+            "block_num": 4,
+            "line_num": 1
+        },
+        {
+            "text": "23.03.18",
+            "confidence": 94.0,
+            "bbox": [
+                86,
+                533,
+                192,
+                551
+            ],
+            "block_num": 4,
+            "line_num": 2
+        },
+        {
+            "text": "14:59",
+            "confidence": 92.0,
+            "bbox": [
+                270,
+                532,
+                330,
+                551
+            ],
+            "block_num": 4,
+            "line_num": 2
+        },
+        {
+            "text": "EXIT",
+            "confidence": 92.0,
+            "bbox": [
+                86,
+                562,
+                135,
+                581
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "fIME:",
+            "confidence": 30.0,
+            "bbox": [
+                159,
+                562,
+                216,
+                581
+            ],
+            "block_num": 4,
+            "line_num": 3
+        },
+        {
+            "text": "23.03.18",
+            "confidence": 75.0,
+            "bbox": [
+                86,
+                591,
+                192,
+                611
+            ],
+            "block_num": 4,
+            "line_num": 4
+        },
+        {
+            "text": "PARK-OUR.:",
+            "confidence": 73.0,
+            "bbox": [
+                86,
+                622,
+                216,
+                642
+            ],
+            "block_num": 4,
+            "line_num": 5
+        },
+        {
+            "text": "0:HH:MM",
+            "confidence": 12.0,
+            "bbox": [
+                238,
+                623,
+                331,
+                642
+            ],
+            "block_num": 4,
+            "line_num": 5
+        },
+        {
+            "text": "0:00:28",
+            "confidence": 84.0,
+            "bbox": [
+                238,
+                653,
+                330,
+                673
+            ],
+            "block_num": 5,
+            "line_num": 1
+        },
+        {
+            "text": "KIND",
+            "confidence": 93.0,
+            "bbox": [
+                87,
+                715,
+                138,
+                734
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": "Of",
+            "confidence": 89.0,
+            "bbox": [
+                155,
+                716,
+                172,
+                734
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": "PAYMENT:",
+            "confidence": 74.0,
+            "bbox": [
+                197,
+                715,
+                299,
+                734
+            ],
+            "block_num": 6,
+            "line_num": 1
+        },
+        {
+            "text": "CASH",
+            "confidence": 96.0,
+            "bbox": [
+                87,
+                746,
+                138,
+                765
+            ],
+            "block_num": 6,
+            "line_num": 2
+        },
+        {
+            "text": "Parking",
+            "confidence": 95.0,
+            "bbox": [
+                87,
+                776,
+                179,
+                798
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "Fee",
+            "confidence": 96.0,
+            "bbox": [
+                197,
+                777,
+                234,
+                795
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "RM",
+            "confidence": 95.0,
+            "bbox": [
+                307,
+                778,
+                332,
+                795
+            ],
+            "block_num": 7,
+            "line_num": 1
+        },
+        {
+            "text": "0.94",
+            "confidence": 90.0,
+            "bbox": [
+                280,
+                804,
+                330,
+                823
+            ],
+            "block_num": 7,
+            "line_num": 2
+        },
+        {
+            "text": "Add",
+            "confidence": 96.0,
+            "bbox": [
+                86,
+                834,
+                125,
+                852
+            ],
+            "block_num": 7,
+            "line_num": 3
+        },
+        {
+            "text": "GS]",
+            "confidence": 71.0,
+            "bbox": [
+                142,
+                833,
+                175,
+                852
+            ],
+            "block_num": 7,
+            "line_num": 3
+        },
+        {
+            "text": "RM",
+            "confidence": 96.0,
+            "bbox": [
+                307,
+                834,
+                332,
+                852
+            ],
+            "block_num": 7,
+            "line_num": 3
+        },
+        {
+            "text": "0.06",
+            "confidence": 94.0,
+            "bbox": [
+                280,
+                863,
+                331,
+                881
+            ],
+            "block_num": 7,
+            "line_num": 4
+        },
+        {
+            "text": "*AMT",
+            "confidence": 79.0,
+            "bbox": [
+                87,
+                887,
+                137,
+                921
+            ],
+            "block_num": 7,
+            "line_num": 5
+        },
+        {
+            "text": "RM",
+            "confidence": 96.0,
+            "bbox": [
+                308,
+                892,
+                332,
+                911
+            ],
+            "block_num": 7,
+            "line_num": 5
+        },
+        {
+            "text": "1.0u",
+            "confidence": 17.0,
+            "bbox": [
+                284,
+                922,
+                331,
+                941
+            ],
+            "block_num": 7,
+            "line_num": 6
+        },
+        {
+            "text": "*Rate",
+            "confidence": 88.0,
+            "bbox": [
+                88,
+                952,
+                152,
+                971
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "incl.",
+            "confidence": 90.0,
+            "bbox": [
+                174,
+                952,
+                231,
+                971
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "6%",
+            "confidence": 96.0,
+            "bbox": [
+                253,
+                952,
+                277,
+                971
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "GST",
+            "confidence": 96.0,
+            "bbox": [
+                294,
+                952,
+                329,
+                971
+            ],
+            "block_num": 8,
+            "line_num": 1
+        },
+        {
+            "text": "THANK",
+            "confidence": 92.0,
+            "bbox": [
+                88,
+                1012,
+                152,
+                1031
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "YUU",
+            "confidence": 95.0,
+            "bbox": [
+                170,
+                1013,
+                207,
+                1031
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "FUR",
+            "confidence": 60.0,
+            "bbox": [
+                225,
+                1014,
+                263,
+                1031
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "YOUR",
+            "confidence": 50.0,
+            "bbox": [
+                280,
+                1012,
+                331,
+                1031
+            ],
+            "block_num": 9,
+            "line_num": 1
+        },
+        {
+            "text": "VISIT",
+            "confidence": 95.0,
+            "bbox": [
+                169,
+                1042,
+                235,
+                1061
+            ],
+            "block_num": 9,
+            "line_num": 2
+        }
+    ]
+}
