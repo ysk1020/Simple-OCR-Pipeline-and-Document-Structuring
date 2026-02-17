@@ -90,6 +90,5 @@ Advanced usage
 ## Implementation status / TODOs
 
 - `src/preprocess/binarize.py`: TODO — binarization code is not implemented yet; currently a placeholder. If you rely on preprocessing, implement a binarization routine (adaptive thresholding or Otsu) and add tests in `test_ocr.py`.
-- Consider adding unit tests for the preprocessing pipeline and a small example image in `data/sample/` for CI testing.
 
 
