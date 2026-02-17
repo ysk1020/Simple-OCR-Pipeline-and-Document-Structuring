@@ -96,3 +96,4 @@ node_modules/
 .cache/
 *.egg-info/
 data/raw/SROIE2019/layoutlm-base-uncased/
+data/raw/SROIE2019/layoutlm-base-uncased/
