@@ -14,7 +14,7 @@ __pycache__/
 *.so
 
 # data + outputs
-data/raw/
+data/raw/*
 
 # Distribution / packaging
 .Python
@@ -95,3 +95,4 @@ node_modules/
 .ropeproject/
 .cache/
 *.egg-info/
+data/raw/SROIE2019/layoutlm-base-uncased/
